@@ -26,7 +26,7 @@ This allows teams to:
 
 ## 2️⃣ Architecture Diagram
 
-![Alt text](Lead Scraper Agent.png)
+![Alt text](https://github.com/amunim12/Lead_Scraper_Agent/blob/main/Lead%20Scraper%20Agent.png)
 
 
 ## 3️⃣ Agent Loop Explanation
